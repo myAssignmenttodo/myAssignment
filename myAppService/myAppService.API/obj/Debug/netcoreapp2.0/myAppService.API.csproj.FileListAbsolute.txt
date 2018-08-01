@@ -1,0 +1,11 @@
+C:\myAssignment\myAppService\myAppService.API\bin\Debug\netcoreapp2.0\myAppService.API.deps.json
+C:\myAssignment\myAppService\myAppService.API\bin\Debug\netcoreapp2.0\myAppService.API.runtimeconfig.json
+C:\myAssignment\myAppService\myAppService.API\bin\Debug\netcoreapp2.0\myAppService.API.runtimeconfig.dev.json
+C:\myAssignment\myAppService\myAppService.API\bin\Debug\netcoreapp2.0\myAppService.API.dll
+C:\myAssignment\myAppService\myAppService.API\bin\Debug\netcoreapp2.0\myAppService.API.pdb
+C:\myAssignment\myAppService\myAppService.API\obj\Debug\netcoreapp2.0\myAppService.API.csprojAssemblyReference.cache
+C:\myAssignment\myAppService\myAppService.API\obj\Debug\netcoreapp2.0\myAppService.API.csproj.CoreCompileInputs.cache
+C:\myAssignment\myAppService\myAppService.API\obj\Debug\netcoreapp2.0\myAppService.API.AssemblyInfoInputs.cache
+C:\myAssignment\myAppService\myAppService.API\obj\Debug\netcoreapp2.0\myAppService.API.AssemblyInfo.cs
+C:\myAssignment\myAppService\myAppService.API\obj\Debug\netcoreapp2.0\myAppService.API.dll
+C:\myAssignment\myAppService\myAppService.API\obj\Debug\netcoreapp2.0\myAppService.API.pdb
